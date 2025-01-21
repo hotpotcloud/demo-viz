@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "unit": "m",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            470738.8,
+                            3678837.5
+                        ]
+                    },
+                    {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                470738.8,
+                                3678837.5,
+                                38.5
+                            ],
+                            [
+                                470738.8,
+                                3678837.5,
+                                -2604.5
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "name": "EB-54",
+                "color": [
+                    28,
+                    255,
+                    12,
+                    255
+                ],
+                "md": [
+                    [
+                        0.0,
+                        2643.0
+                    ]
+                ]
+            }
+        }
+    ]
+}

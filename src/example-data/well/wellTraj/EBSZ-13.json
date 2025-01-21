@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "unit": "m",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            478263.86,
+                            3669080.48
+                        ]
+                    },
+                    {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                478263.86,
+                                3669080.48,
+                                38.64
+                            ],
+                            [
+                                478263.86,
+                                3669080.48,
+                                -3961.36
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "name": "EBSZ-13",
+                "color": [
+                    28,
+                    255,
+                    12,
+                    255
+                ],
+                "md": [
+                    [
+                        0.0,
+                        4000.0
+                    ]
+                ]
+            }
+        }
+    ]
+}

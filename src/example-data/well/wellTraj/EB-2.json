@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "unit": "m",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            479951.55,
+                            3668416.04
+                        ]
+                    },
+                    {
+                        "type": "LineString",
+                        "coordinates": [
+                            [
+                                479951.55,
+                                3668416.04,
+                                34.91
+                            ],
+                            [
+                                479951.55,
+                                3668416.04,
+                                -3905.09
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "name": "EB-2",
+                "color": [
+                    28,
+                    255,
+                    12,
+                    255
+                ],
+                "md": [
+                    [
+                        0.0,
+                        3940.0
+                    ]
+                ]
+            }
+        }
+    ]
+}
